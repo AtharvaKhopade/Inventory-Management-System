@@ -19,6 +19,6 @@ My name is Atharva and i'm Student at Jawaharlal Nehru Engineering College(JNEC)
 
 # Other Useful Links:
 
-LinkedIn - https://www.linkedin.com/in/atharva-khopade-528b26190/
-Instagram - https://www.instagram.com/atharva_khopade_/
-facebook - https://www.facebook.com/atharwa.khopade
+LinkedIn - https://www.linkedin.com/in/atharva-khopade-528b26190/ </br>
+Instagram - https://www.instagram.com/atharva_khopade_/ </br>
+facebook - https://www.facebook.com/atharwa.khopade </br>
