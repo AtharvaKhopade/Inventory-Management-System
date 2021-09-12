@@ -5,14 +5,14 @@ In This IMS project File handling concepts and python data structure (Dictionari
 You'll learn JSON, NoSQL databases, File Handling.
 
 # Files
-record.json : For adding the data
-sales.json : For storing the transaction of customers
+record.json : For adding the data </br>
+sales.json : For storing the transaction of customers </br>
 
 # Features
-1.Add new items into Inventory 
-2.Purchasing of items
-3.Stroing of items
-4.Storing of sale transaction
+1.Add new items into Inventory </br>
+2.Purchasing of items </br>
+3.Stroing of items </br>
+4.Storing of sale transaction </br>
 
 # Who am I?
 My name is Atharva and i'm Student at Jawaharlal Nehru Engineering College(JNEC), Aurangabad. I'm Currently in 3rd year of CSE. 
